@@ -1,0 +1,13 @@
+G:\PRG\Knihovna\Knihovna\bin\x64\Debug\net6.0\Knihovna.deps.json
+G:\PRG\Knihovna\Knihovna\bin\x64\Debug\net6.0\Knihovna.dll
+G:\PRG\Knihovna\Knihovna\bin\x64\Debug\net6.0\Knihovna.pdb
+G:\PRG\Knihovna\Knihovna\bin\x64\Debug\net6.0\Knihovna.xml
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.AssemblyInfoInputs.cache
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.AssemblyInfo.cs
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.csproj.CoreCompileInputs.cache
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.dll
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\refint\Knihovna.dll
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.xml
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\Knihovna.pdb
+G:\PRG\Knihovna\Knihovna\obj\x64\Debug\net6.0\ref\Knihovna.dll

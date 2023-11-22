@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Knihovna</name>
+    </assembly>
+    <members>
+        <member name="M:Knihovna.Pole.Nacti(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Celek
+            </summary>
+            <param name="n"> pocet hodnot </param>
+            <param name="dol"> dolní hranice generace </param>
+            <param name="hor"> horní hranice generace </param>
+            <returns>Vrací pole hodnot </returns>
+        </member>
+    </members>
+</doc>

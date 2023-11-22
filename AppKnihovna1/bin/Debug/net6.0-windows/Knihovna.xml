@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Knihovna</name>
+    </assembly>
+    <members>
+        <member name="T:Knihovna.Pole">
+            <summary>
+            Třída Pole
+            </summary>
+        </member>
+        <member name="M:Knihovna.Pole.Nacti(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Celek
+            </summary>
+            <param name="n"> pocet hodnot </param>
+            <param name="dol"> dolní hranice generace </param>
+            <param name="hor"> horní hranice generace </param>
+            <returns>Vrací pole hodnot </returns>
+        </member>
+        <member name="M:Knihovna.Pole.Smaz(System.String)">
+            <summary>
+            Smaže čísla v řetězci
+            </summary>
+            <param name="s">Text z textboxu</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
